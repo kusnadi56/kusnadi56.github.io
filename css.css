@@ -1,0 +1,26 @@
+.card{
+     width: auto;
+    padding-inline-start: 0 1;
+}
+
+.footer-bottom{
+    width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+}
+.body{
+    background-color:salmon;
+}
+
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+}
+.banner-image{
+    background-image: url(markus-spiske-JSMnmV0zZpo-unsplash.jpg);
+    background-size: cover;
+}
+.p{
+    font-size: 40px;
+    content:;
+}
